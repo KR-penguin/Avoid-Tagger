@@ -335,4 +335,5 @@ while running:
 
 Estimate_score()
 print("당신의 점수는 {0} 점 입니다.".format(score))
+input("")
 pygame.quit()
